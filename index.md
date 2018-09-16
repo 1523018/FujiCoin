@@ -5,10 +5,9 @@
 <br>
 <br>
 <font size="5">内部リンク</font><br>
-<font size="3">
-[活動内容](./activities)  
-[実施要項](./guide)  
-[コインについて](./coin)  
-[関係組織](./stakeholders)  
-[アカウントの扱い方](./acount)  
-</font>
+
+### [活動内容](./activities)  
+#### [実施要項](./guide)  
+#### [コインについて](./coin)  
+#### [関係組織](./stakeholders)  
+#### [アカウントの扱い方](./acount)  
