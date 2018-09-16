@@ -1,4 +1,2 @@
-# TOP<br>
-[ポイントについて](./point)<br>
-[Scheduleについて](./schedule)<br>
-[概要](./point)<br>
+# 富士コインとは?<br>
+<font color="Red">仮プロジェクト</font>
