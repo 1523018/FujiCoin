@@ -4,5 +4,5 @@ description: Fuji Moneyの紹介サイトです
 github:
   is_project_page: false
 {% for post in paginator.posts %}
-<a href ="{{post.url}}">{{post.title}}</a>
+<a href ="{{https://1523018.github.io/FujiCoin/logo.png}}">{{post.title}}</a>
 {% endfor %}
