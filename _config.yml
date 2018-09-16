@@ -3,4 +3,4 @@ title: Fuji Money
 description: Fuji Moneyの紹介サイトです
 github:
   is_project_page: false
-header-img: logo.png
+header-img: ./logo.png
