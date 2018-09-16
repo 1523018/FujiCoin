@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: Fuji Money  
-description: Fuji Moneyの紹介サイトです  
+description: Fuji Moneyの紹介サイトです
+site:
+  logo: true
+relative_url: "https://github.com/1523018/FujiCoin/2959.png"
 github:
   is_project_page: false
