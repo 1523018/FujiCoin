@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
-title: Fuji Money  
+title: Fuji Money 
+avatar: https://1523018.github.io/FujiCoin/logo.png
 description: Fuji Moneyの紹介サイトです
 github:
   is_project_page: false
