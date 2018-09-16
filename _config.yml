@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
 title: 富士コイン  
 description: 富士コインの紹介サイトです  
-<br>
-[活動内容](https://1523018.github.io/FujiCoin/activities)
 github:
   is_project_page: false
