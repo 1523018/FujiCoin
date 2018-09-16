@@ -7,3 +7,6 @@
 <br>
 <font size="4">内部リンク</font>
 ### [活動内容](./activities)<br>[実施要項](./guide)<br>[コインについて](./coin)<br>[関係組織](./stakeholders)<br>[アカウントの扱い方](./account)
+
+
+## お問い合わせ<br>　080-0000-◇000
